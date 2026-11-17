@@ -138,7 +138,7 @@ img{display:block;max-width:100%}
 .rings{animation:bloom 1.4s var(--ease) .3s backwards}
 .arrows{overflow:visible;pointer-events:none}
 .bull{position:absolute;left:30%;top:30%;width:40%;height:40%;overflow:hidden;border-radius:50%;pointer-events:none}
-.bull img{width:100%;height:100%;object-fit:cover;object-position:37% 38%;transform:scale(1.9);transform-origin:37% 40%}
+.bull img{width:100%;height:100%;object-fit:cover;object-position:50% 40%;transform:scale(1.15);transform-origin:center}
 .score{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:.6rem 1.6rem;margin-top:1.5rem;font-size:.8rem;color:var(--cream)}
 .score span{display:flex;flex-direction:column;align-items:center;line-height:1.2}
 .score b{font-size:1.6rem;font-weight:700;font-variant-numeric:tabular-nums}
